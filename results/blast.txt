@@ -1,0 +1,7 @@
+# BLASTN 2.12.0+
+# Query: contig len=7391
+# Database: data/eva71.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+contig	EVA71_BrCr_U22521	100.000	7391	0	0	1	7391	12	7402	0.0	13649
+# BLAST processed 1 queries
